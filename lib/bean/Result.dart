@@ -8,7 +8,7 @@ class Result {
     String publishedAt;
     String source;
     String type;
-    String url;
+    var url;
     bool used;
     String who;
 
